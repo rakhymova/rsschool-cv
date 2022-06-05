@@ -60,7 +60,7 @@ I study at Astana IT University in Nur-Sultan city, Kazakhstan. I love studying 
   
 ---
   
-#### Projects
+#### My Projects
 
 1. ["Push Yourself & Your Designs" Website](https://rakhymova.github.io/)
 
