@@ -64,11 +64,11 @@ I study at Astana IT University in Nur-Sultan city, Kazakhstan. I love studying 
 
 1. ["Push Yourself & Your Designs" Website](https://rakhymova.github.io/)
 
-Website layout using HTML5 and CSS3
+_Website layout using HTML5 and CSS3_
 
 2. ["Treloo" Website](https://rakhymova.github.io/treloo.web/)
 
-Adaptive website layout using HTML5 and CSS3 for desktop, tablet and mobile screen extensions
+_Adaptive website layout using HTML5 and CSS3 for desktop, tablet and mobile screen extensions_
 
 ---
   
