@@ -1,5 +1,6 @@
 # Nurdana Rakhymova
 ### Junior Frontend Developer
+![Profile image of Nurdana](https://sun6-22.userapi.com/s/v1/ig2/WGTDkZUpN-iOSA48LDALEGHBQwMacInWi445QWT8peEWvdheXCAzFKB-oy5ZXuEIoNePEekgraoxjGsO08rB5gEo.jpg?size=200x200&quality=96&crop=0,442,1620,1620&ava=1)
 #### Contact information:
 
 **Phone:** +7 777 777 77 77
@@ -40,3 +41,11 @@
    Internship as a coordinator of the "Birgemiz Bilim" project, the purpose of which
    is to increase the level of digital, financial, language, computer literacy of various
    groups of the population of Kazakhstan through the involvement of volunteers.
+
+#### Languages:
+
+**Kazakh** - native
+
+**Russian** - advanced
+
+**English** - advanced, IELTS 7.5
